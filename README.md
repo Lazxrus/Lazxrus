@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Passionate Backend Developer | Lifelong Learner 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=435&lines=Backend+Developer;Python+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=435&lines=Python+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
