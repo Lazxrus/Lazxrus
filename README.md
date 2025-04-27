@@ -86,14 +86,6 @@
 
 ---
 
-### 👀 Visitor Counter
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Lazxrus&label=Profile%20views&color=0e75b6&style=flat" alt="Lazxrus" />
-</p>
-
----
-
 ### 📜 Random Dev Quote
 
 <p align="center">
