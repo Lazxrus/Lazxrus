@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋, I'm Ivo!</h1>
-<h3 align="center">🚀 Passionate Backend Developer | Lifelong Learner 🚀</h3>
+<h1 align="center">Hi 👋, I'm Ivo!</h1>
+<h3 align="center">🚀 Backend Developer | Lifelong Learner 🚀</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=435&lines=Python+Enthusiast" alt="Typing SVG" />
@@ -12,16 +12,7 @@
 - 🔭 I’m currently working on [**FinanceTrack**](https://github.com/Lazxrus/FinanceTrack.git) — a personal finance tracking app.
 - 🌱 Currently leveling up my skills in **Python, Flask, SQL**, and more.
 - 🤝 Open to collaborations on backend, API, or full-stack projects.
-- 🎯 Passionate about clean code, open-source, and lifelong learning.
-
----
-
-### 📫 How to Reach Me
-
-<p align="left">
-  <a href="mailto:your.email@example.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Lazxrus" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+- 🎯 Passionate about clean code, open-source, and learning new stuff.
 
 ---
 
@@ -29,7 +20,6 @@
 
 <p align="left">
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a>
   <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
   <a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
@@ -78,7 +68,7 @@
 
 ---
 
-### 🐍 Snake Eating Contributions (Animated)
+### 🐍 Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Lazxrus/Lazxrus/output/github-contribution-grid-snake.svg" alt="snake" />
@@ -86,7 +76,16 @@
 
 ---
 
-### 📜 Random Dev Quote
+### 📫 How to Reach Me
+
+<p align="left">
+  <a href="mailto:Lazxrus@proton.me" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Lazxrus" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+### 📜 Random Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="dev quote"/>
