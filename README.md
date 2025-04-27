@@ -73,7 +73,7 @@
 ### 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Lazxrus&theme=tokyo-night" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lazxrus&theme=tokyo-night" alt="activity graph" />
 </p>
 
 ---
