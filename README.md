@@ -16,6 +16,8 @@ Hi there 👋, I'm Ivo!
 ⚡ Fun Fact
 I'm addicted to mastering new tech stacks and solving real-world problems one line of code at a time!
 
+<br></br>
+
 🏆 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Lazxrus&show_icons=true&theme=radical" alt="Ivo's GitHub stats" /> </p>
 Would you like me to also include some cool extras like:
