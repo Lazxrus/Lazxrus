@@ -10,9 +10,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-    
       - name: Generate the Snake animation
         uses: Platane/snk@v3
         with:
@@ -20,7 +17,6 @@ jobs:
           outputs: |
             ./output/github-contribution-grid-snake.svg
             ./output/github-contribution-grid-snake-dark.svg?palette=github-dark
-
 
       - name: Configure git for GitHub token
         run: |
@@ -38,4 +34,3 @@ jobs:
           build_dir: output
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
-
