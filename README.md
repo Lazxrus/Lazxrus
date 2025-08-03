@@ -68,14 +68,6 @@
 
 ---
 
-### 🐍 Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Lazxrus/Lazxrus/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
-
----
-
 ### 📫 How to Reach Me
 
 <p align="left">
