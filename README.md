@@ -9,7 +9,6 @@
 
 ### 🛠 About Me
 
-- 🔭 I’m currently working on [**FinanceTrack**](https://github.com/Lazxrus/FinanceTrack.git) — a personal finance tracking app.
 - 🌱 Currently leveling up my skills in **Python, Flask, SQL**, and more.
 - 🤝 Open to collaborations on backend, API, or full-stack projects.
 - 🎯 Passionate about clean code, open-source, and learning new stuff.
