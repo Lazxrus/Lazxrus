@@ -38,23 +38,7 @@
 ### 🏆 GitHub Profile Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lazxrus&show_icons=true&theme=tokyonight" alt="Lazxrus stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lazxrus&theme=tokyonight" alt="Lazxrus streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lazxrus&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
-
----
-
-### 🏅 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lazxrus&theme=radical&row=2&column=3" alt="trophies" />
 </p>
 
 ---
