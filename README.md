@@ -1,41 +1,57 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1e293b,100:0ea5e9&text=Lazxrus&fontSize=64&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20TypeScript%20First&descAlignY=58&animation=fadeIn" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1d4ed8,100:22d3ee&text=Lazxrus&fontSize=62&fontAlignY=38&desc=Python%20%7C%20Data%20Analysis%20%7C%20Insight-Driven%20Builds&descAlignY=58&animation=fadeIn" alt="header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Designing+clean+interfaces.;Building+fast+and+scalable+web+apps.;Shipping+consistently+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=22D3EE&center=true&vCenter=true&width=980&lines=Turning+raw+data+into+clear+decisions.;Python-first+workflows+for+analysis+and+automation.;Dashboards,+notebooks,+and+production-minded+code." alt="Typing SVG" />
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=Lazxrus&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="views"/>
-<img src="https://img.shields.io/github/followers/Lazxrus?style=for-the-badge&logo=github&label=Followers&color=0ea5e9" alt="followers"/>
-<img src="https://img.shields.io/github/stars/Lazxrus?style=for-the-badge&logo=github&label=Stars&color=0ea5e9" alt="stars"/>
+<img src="https://img.shields.io/github/followers/Lazxrus?style=for-the-badge&logo=github&label=Followers&color=2563eb" alt="followers"/>
+<img src="https://img.shields.io/github/stars/Lazxrus?style=for-the-badge&logo=github&label=Stars&color=0891b2" alt="stars"/>
 
 </div>
 
 ---
 
-## 𓆩⚡𓆪 About Me
+## 🐍 About Me (Data Edition)
 
-```ts
-const lazxrus = {
-  focus: ["TypeScript", "Frontend Architecture", "DX", "UI Polish"],
-  building: "Modern web experiences with clean systems",
-  values: ["Performance", "Consistency", "Readable code", "Shipping fast"],
-  currentGoal: "Level up through real products and smart iteration"
-};
+```python
+lazxrus = {
+    "role": "Python Developer / Data Analyst",
+    "focus": [
+        "Data cleaning & transformation",
+        "Exploratory Data Analysis (EDA)",
+        "Visualization & storytelling",
+        "Automation scripts",
+        "Insight-to-action workflows"
+    ],
+    "toolbox": ["Python", "Pandas", "NumPy", "Matplotlib", "Seaborn", "SQL", "Jupyter"],
+    "mindset": "Reliable analysis, readable code, real-world impact."
+}
 ```
 
 ---
 
-## 🧠 Tech Arsenal
+## 🧰 Core Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,html,css,tailwind,git,github,vscode,figma&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,postgres,mysql,sqlite,git,github,vscode&perline=7" />
+</div>
+
+<div align="center">
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C78A8?style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
 </div>
 
 ---
 
-## 📊 GitHub Intelligence
+## 📊 GitHub Stats
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Lazxrus&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
@@ -46,26 +62,9 @@ const lazxrus = {
   <img height="170" src="https://streak-stats.demolab.com?user=Lazxrus&theme=tokyonight&hide_border=true" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lazxrus&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" />
-</div>
-
 ---
 
-## 🚀 Featured Build
-
-### [`portfolio`](https://github.com/Lazxrus/portfolio)
-
-**Primary stack:** TypeScript-heavy modern frontend.
-
-- TypeScript: **92.4%**
-- HTML: **3.6%**
-- CSS: **2.9%**
-- Other: **1.1%**
-
----
-
-## 📈 Activity Graph
+## 📈 Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lazxrus&theme=tokyo-night&hide_border=true&area=true" />
@@ -73,17 +72,30 @@ const lazxrus = {
 
 ---
 
-## 🎧 Current Mode
+## 🔬 What I Work On
 
-<div align="center">
+- 📉 Data cleaning pipelines for messy real-world datasets  
+- 📊 EDA + statistical summaries for pattern discovery  
+- 🧾 Notebook-based analysis with production-style structure  
+- ⚙️ Python automation for repetitive tasks  
+- 🧠 Insight communication through clear visualizations
+
+---
+
+## 🚀 Featured Repository
+
+### [`portfolio`](https://github.com/Lazxrus/portfolio)
+Showcasing projects and technical work.
 
 ```text
-Focus: Deep Work
-Playlist: Lofi / Phonk / Instrumental
-Status: Building > Talking
+Current language mix in repo:
+- TypeScript: 92.4%
+- HTML: 3.6%
+- CSS: 2.9%
+- Other: 1.1%
 ```
 
-</div>
+> Next step: add a dedicated Python/data-analysis project section as your data repos grow.
 
 ---
 
@@ -94,5 +106,9 @@ Status: Building > Talking
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0ea5e9,100:0f172a" />
+  <sub>“Without data, you're just another person with an opinion.”</sub>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:22d3ee,100:0f172a" />
 </div>
