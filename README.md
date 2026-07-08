@@ -58,9 +58,7 @@ lazxrus = {
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lazxrus&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
-<div align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=Lazxrus&theme=tokyonight&hide_border=true" />
-</div>
+[![Lazxrus's GitHub stats](https://github-stats-extended.vercel.app/api?username=Lazxrus)](https://github.com/stats-organization/github-stats-extended)
 
 ---
 
