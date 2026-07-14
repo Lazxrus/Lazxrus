@@ -44,6 +44,8 @@ lazxrus = {
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+[![Seaborn](https://img.shields.io/badge/Seaborn-4EAEAA?logo=python&logoColor=fff)](#)
+[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
 
 </div>
 
@@ -100,8 +102,6 @@ Current language mix in repo:
 ## 🌐 Connect
 
 - GitHub: [@Lazxrus](https://github.com/Lazxrus)
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:22d3ee,100:0f172a" />
