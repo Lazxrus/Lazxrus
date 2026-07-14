@@ -36,7 +36,7 @@ lazxrus = {
 ## 🧰 Core Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgres,mysql,sqlite,git,github,vscode&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,postgres,mongodb,docker,git,github,vscode&perline=7" />
 </div>
 
 <div align="center">
@@ -44,8 +44,6 @@ lazxrus = {
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C78A8?style=for-the-badge)
-![SQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=sqlr&logoColor=white)
 
 </div>
 
@@ -95,7 +93,7 @@ Current language mix in repo:
 - Other: 1.1%
 ```
 
-> Next step: add a dedicated Python/data-analysis project section as your data repos grow.
+> Next step: add a dedicated Python/data-analysis project section as data repos grow.
 
 ---
 
@@ -104,10 +102,6 @@ Current language mix in repo:
 - GitHub: [@Lazxrus](https://github.com/Lazxrus)
 
 ---
-
-<div align="center">
-  <sub>“Without data, you're just another person with an opinion.”</sub>
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:22d3ee,100:0f172a" />
