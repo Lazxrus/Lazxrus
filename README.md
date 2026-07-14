@@ -26,7 +26,7 @@ lazxrus = {
         "Automation scripts",
         "Insight-to-action workflows"
     ],
-    "toolbox": ["Python", "Pandas", "NumPy", "Matplotlib", "Seaborn", "SQL", "Jupyter"],
+    "toolbox": ["Python", "Pandas", "NumPy", "Matplotlib", "Seaborn", "SQL"],
     "mindset": "Reliable analysis, readable code, real-world impact."
 }
 ```
@@ -45,7 +45,7 @@ lazxrus = {
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C78A8?style=for-the-badge)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![SQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=sqlr&logoColor=white)
 
 </div>
 
